@@ -24,3 +24,7 @@ Java 17
 <br>InteliJ IDEA
 <br>Paradigma de orientação a objetos
 <br>Gutendex API
+<br>Springboot
+<br>Maven
+<br>Json
+<br>PostgreSQL
